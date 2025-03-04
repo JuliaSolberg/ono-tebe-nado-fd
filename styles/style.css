@@ -322,6 +322,9 @@ h2 {
 .footer__menu {
     display: flex;
     justify-content: center;
+    align-self: center;
+    padding-bottom: 30px;
+    margin-bottom: 82px;
 }
 
 .footer__menu-list {
@@ -329,7 +332,8 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    line-height: 24px;
+    line-height: 22px;
+    font-size: 18px;
 }
 
 .footer__social-list {
